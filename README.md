@@ -87,8 +87,8 @@ To run this project in your local development environment, follow these steps:
 
 1.  **Clone the Repository**
     ```sh
-    git clone <YOUR_GIT_URL>
-    cd <PROJECT_DIRECTORY>
+    git clone https://github.com/B-Bazinga/TruthLens-AI.git
+    cd TruthLens-AI
     ```
 
 2.  **Install Dependencies (with Bun)**
